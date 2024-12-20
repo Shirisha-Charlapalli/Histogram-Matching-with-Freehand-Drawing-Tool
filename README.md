@@ -43,6 +43,7 @@ This project focuses on the development of a Python-based graphical user interfa
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Shirisha-Charlapalli/Histogram-Matching-with-Freehand-Drawing-Tool/](https://github.com/Shirisha-Charlapalli/Histogram-Matching-with-Freehand-Drawing-Tool.git)
+   cd histogram-matching-tool
 
 ## Install dependencies:
 opencv-python==4.5.5.64, 
